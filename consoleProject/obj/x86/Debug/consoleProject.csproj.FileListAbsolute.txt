@@ -1,0 +1,12 @@
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/bin/Debug/consoleProject.exe
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/bin/Debug/consoleProject.pdb
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/bin/Debug/MercadoPago.dll
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/bin/Debug/Newtonsoft.Json.dll
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/bin/Debug/nunit.framework.dll
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/bin/Debug/Newtonsoft.Json.xml
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/bin/Debug/nunit.framework.pdb
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/bin/Debug/nunit.framework.xml
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/obj/x86/Debug/consoleProject.csprojResolveAssemblyReference.cache
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/obj/x86/Debug/consoleProject.csproj.CoreCompileInputs.cache
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/obj/x86/Debug/consoleProject.exe
+/Users/jibaceta/projects/sdk-test-kit/latest/dotnet/consoleProject/consoleProject/obj/x86/Debug/consoleProject.pdb
